@@ -5,7 +5,7 @@
 		<description>The Illrigger isn't a paladin. It isn't a warlock. It's a unique class made for players who want to be a KNIGHT FROM HELL!</description>
 		<author url="https://hitpointpress.com">TIR</author>
 		<update version="0.1.1">
-			<file name="Illrigger_Revised.index" url="xxxx" />
+			<file name="Illrigger_Revised.index" url="https://github.com/MErik23/dnd_tryout/blob/main/Illrigger_Revised.index" />
 		</update>
 	</info>
 	<files>	
