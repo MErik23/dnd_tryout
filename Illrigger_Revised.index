@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Illrigger Revised</name>
+		<description>The Illrigger isn't a paladin. It isn't a warlock. It's a unique class made for players who want to be a KNIGHT FROM HELL!</description>
+		<author url="https://hitpointpress.com">TIR</author>
+		<update version="0.1.1">
+			<file name="Illrigger_Revised.index" url="xxxx" />
+		</update>
+	</info>
+	<files>	
+		<file name="source.xml" url="https://raw.githubusercontent.com/duncathan/aurora-elements/main/humblewood/source.xml" />
+		
+		<!-- classes -->
+		<file name="class-illrigger-tir.xml" url="https://github.com/vidalvanbergen/FightClub5eXML/blob/master/Sources/PHB2014/ThirdParty/PartneredOfficial/Illrigger_Revised/class-illrigger-tir.xml" />
+
+		<!-- spells -->
+		<file name="spells-tir.xml" url="https://github.com/vidalvanbergen/FightClub5eXML/blob/master/Sources/PHB2014/ThirdParty/PartneredOfficial/Illrigger_Revised/spells-tir.xml" />
+
+		<!-- features -->
+		<file name="optionalfeatures-tir.xml" url="https://github.com/vidalvanbergen/FightClub5eXML/blob/master/Sources/PHB2014/ThirdParty/PartneredOfficial/Illrigger_Revised/optionalfeatures-tir.xml" />
+
+	</files>
+</index>
